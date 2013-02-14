@@ -1,0 +1,3 @@
+spawn ssh root@ passwd
+ssh: Could not resolve hostname : No address associated with hostname
+EMAIL to mellinja@gmail.com sent. Now set up nat for port 45671 to
